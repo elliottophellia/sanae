@@ -1,7 +1,7 @@
-
 <img src="./images/sanae.gif" align="right"/>
 <h1>Sanae</h1>
-<p><img src="https://img.shields.io/badge/PHP-7.4-bf616a?style=flat-square"/> <img src="https://img.shields.io/badge/LICENE-GPL2.0-ebcb8b?style=flat-square"/> <img src="https://img.shields.io/badge/VERSION-1.0.0-a3be8c?style=flat-square"/><br/>A PHP-CLI script for dorking Google from Searchfiy, its not a powerful dorking script like other cuz its only can get result up to 20 at one time (for now) but its easy to use and fast.</p>
+<p><img src="https://img.shields.io/badge/PHP-7.4-bf616a?style=flat-square"/> <img src="https://img.shields.io/badge/LICENE-GPL2.0-ebcb8b?style=flat-square"/> <img src="https://img.shields.io/badge/VERSION-1.0.1-a3be8c?style=flat-square"/><br/>
+<p>A PHP-CLI script for dorking Google from Searchfiy, Please notice there is a 100 query limit per day for the google api, so don't be confused if there are no results, the only way to get more result is buying a google api key then fork searchify repo and build it yourself.</p>
 <h1>Installation</h1>
 <pre>git clone https://github.com/elliottophellia/sanae
 cd sanae
